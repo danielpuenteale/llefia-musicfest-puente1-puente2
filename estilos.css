@@ -1,0 +1,66 @@
+.fondoheader {
+  background-color: rgb(22, 22, 88);
+}
+.fondomain {
+  background-color: black;
+}
+.fondofooter {
+  background-color: rgb(11, 11, 63);
+}
+
+.color {
+  color: white;
+}
+
+.centro {
+  justify-content: center;
+  display: flex;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  text-decoration: none;
+}
+.boton {
+  border-radius: 20px;
+  background-color: rgb(21, 10, 58);
+  color: white;
+  list-style: none;
+  text-decoration: none;
+}
+header {
+  margin: 0px;
+  padding: 0px;
+}
+main {
+  margin: 0px;
+  padding: 250px;
+}
+footer {
+  margin: 0px;
+  padding: 50px;
+}
+.centrofooter {
+  display: flex;
+  justify-content: center;
+}
+.centromain {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 400px;
+}
+
+.letranaranja {
+  color: rgb(255, 145, 0);
+}
+.colorletra {
+  color: orange;
+}
+.borde {
+  border: 1px solid;
+  padding: 10px;
+  text-align: center;
+}
