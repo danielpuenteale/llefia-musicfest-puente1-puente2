@@ -1,7 +1,7 @@
 Títol del projecte: “Llefià Music Fest”
-Descripció breu del lloc web: Aquesta es una pagina web per accedir a qualsevol festival de música
-Estructura de fitxers 
-    llefia-musicfest-cognom1-cognom2/
+Descripció breu del lloc web: Aquesta es una pagina web per accedir a qualsevol festival de música.
+Estructura de fitxers:
+    llefia-musicfest-Puente1-Puente2/
 ├── index.html
 ├── style.css
 ├── README.md
